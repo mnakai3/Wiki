@@ -2,9 +2,9 @@
 
 ## 機能
 
-<a href="media/16.png"><img src="media/16.png" width="600"></a>
+<a href="media/16.png" data-lightbox="default"><img src="media/16.png" width="600"></a>
 
-<a href="media/6.png"><img src="media/6.png" width="600"></a>
+<a href="media/6.png" data-lightbox="default"><img src="media/6.png" width="600"></a>
 
 ### LEDとボタン
 
@@ -55,7 +55,7 @@ GROVE LEDはGroveインターフェースの電源供給状態を示します。
 セルラー通信で使用するnanoSIMを取り付けるスロットです。
 フリップ方式のスロットで、金属カバーをOPEN方向へスライドすると金属カバーを開くことができます。
 
-<a href="media/37.jpg"><img src="media/37.jpg" width="300"></a>
+<a href="media/37.jpg" data-lightbox="default"><img src="media/37.jpg" width="300"></a>
 
 ### LTEアンテナコネクタ
 

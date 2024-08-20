@@ -1,6 +1,6 @@
 # Wio BG770A
 
-<a href="media/24.png"><img src="media/24.png" width="200"><a>
+<a href="media/24.png" data-lightbox="default"><img src="media/24.png" width="200"></a>
 
 Wio BG770Aは、**低消費電力セルラーIoTデバイス開発ボード**です。
 多くの開発ボードと比べて、これらの特徴があります。
